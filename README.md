@@ -50,7 +50,7 @@ Ensure that you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/lightnovelapp.git
+    https://github.com/jibril49/flutterlightnovelreader-androidstudio-koala.git
     cd lightnovelapp
     ```
 
